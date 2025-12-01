@@ -74,11 +74,15 @@ The trained model file (`model_best.pth`) can be downloaded here:
 ---
 
 ## Steel Surface Defect Detection
+
 Try the deployed model with the link:
+
 https://steel-surface-defect-detection-u58g8a2kjdcg7aw7kql7ca.streamlit.app/
 
 Here you can 
+
 -upload an image
+
 -view confidence scores for all 6 defect categories
 
 ---
